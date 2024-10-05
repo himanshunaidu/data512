@@ -119,3 +119,10 @@ Description: This plot contains time series for the top 10 article pages by larg
 Filename: [fewest_months_of_data.png](plots/fewest_months_of_data.png)
 
 Description: This plot contains pages that have the fewest months of available data.
+
+
+## Known Issues and Special Considerations
+
+- Data Completeness: Some articles may have incomplete data for certain months, particularly articles created after July 2015 or deleted before September 2024.
+
+- Access Type Considerations: The Wikimedia Pageviews API separates mobile web and mobile app access, and these are combined into a single mobile category in this project.
