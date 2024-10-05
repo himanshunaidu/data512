@@ -1,1 +1,3772 @@
-{"Klinefelter syndrome": [{"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015070100", "agent": "user", "views": 75311}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015080100", "agent": "user", "views": 68083}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015090100", "agent": "user", "views": 69439}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015100100", "agent": "user", "views": 75887}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015110100", "agent": "user", "views": 80694}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2015120100", "agent": "user", "views": 84769}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016010100", "agent": "user", "views": 92728}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016020100", "agent": "user", "views": 112356}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016030100", "agent": "user", "views": 106725}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016040100", "agent": "user", "views": 97743}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016050100", "agent": "user", "views": 99203}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016060100", "agent": "user", "views": 82466}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016070100", "agent": "user", "views": 81444}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016080100", "agent": "user", "views": 87721}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016090100", "agent": "user", "views": 90172}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016100100", "agent": "user", "views": 93605}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016110100", "agent": "user", "views": 91685}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2016120100", "agent": "user", "views": 89120}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017010100", "agent": "user", "views": 113032}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017020100", "agent": "user", "views": 103428}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017030100", "agent": "user", "views": 117406}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017040100", "agent": "user", "views": 103932}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017050100", "agent": "user", "views": 100225}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017060100", "agent": "user", "views": 76255}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017070100", "agent": "user", "views": 84496}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017080100", "agent": "user", "views": 82383}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017090100", "agent": "user", "views": 78099}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017100100", "agent": "user", "views": 85348}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017110100", "agent": "user", "views": 81628}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2017120100", "agent": "user", "views": 71897}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018010100", "agent": "user", "views": 83116}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018020100", "agent": "user", "views": 85523}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018030100", "agent": "user", "views": 91673}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018040100", "agent": "user", "views": 79386}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018050100", "agent": "user", "views": 77078}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018060100", "agent": "user", "views": 68834}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018070100", "agent": "user", "views": 69623}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018080100", "agent": "user", "views": 66485}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018090100", "agent": "user", "views": 67585}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018100100", "agent": "user", "views": 80803}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018110100", "agent": "user", "views": 73372}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2018120100", "agent": "user", "views": 77789}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019010100", "agent": "user", "views": 76057}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019020100", "agent": "user", "views": 74234}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019030100", "agent": "user", "views": 77621}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019040100", "agent": "user", "views": 70208}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019050100", "agent": "user", "views": 76711}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019060100", "agent": "user", "views": 66514}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019070100", "agent": "user", "views": 59467}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019080100", "agent": "user", "views": 64468}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019090100", "agent": "user", "views": 63410}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019100100", "agent": "user", "views": 69044}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019110100", "agent": "user", "views": 68120}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2019120100", "agent": "user", "views": 71177}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 73897}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020020100", "agent": "user", "views": 71166}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020030100", "agent": "user", "views": 60981}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020040100", "agent": "user", "views": 61066}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020050100", "agent": "user", "views": 57662}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020060100", "agent": "user", "views": 60212}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020070100", "agent": "user", "views": 58299}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020080100", "agent": "user", "views": 56717}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020090100", "agent": "user", "views": 58255}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020100100", "agent": "user", "views": 64726}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020110100", "agent": "user", "views": 58397}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2020120100", "agent": "user", "views": 58061}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021010100", "agent": "user", "views": 62036}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021020100", "agent": "user", "views": 64351}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021030100", "agent": "user", "views": 75592}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021040100", "agent": "user", "views": 68209}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021050100", "agent": "user", "views": 61676}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021060100", "agent": "user", "views": 76316}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021070100", "agent": "user", "views": 51851}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021080100", "agent": "user", "views": 74941}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021090100", "agent": "user", "views": 47437}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021100100", "agent": "user", "views": 48943}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021110100", "agent": "user", "views": 47288}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2021120100", "agent": "user", "views": 43282}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022010100", "agent": "user", "views": 57110}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022020100", "agent": "user", "views": 50968}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022030100", "agent": "user", "views": 62791}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022040100", "agent": "user", "views": 53663}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022050100", "agent": "user", "views": 50565}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022060100", "agent": "user", "views": 57381}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022070100", "agent": "user", "views": 47895}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022080100", "agent": "user", "views": 51867}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022090100", "agent": "user", "views": 48834}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022100100", "agent": "user", "views": 50607}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022110100", "agent": "user", "views": 52159}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2022120100", "agent": "user", "views": 52149}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2023010100", "agent": "user", "views": 53076}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2023020100", "agent": "user", "views": 50666}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2023030100", "agent": "user", "views": 59975}, {"project": "en.wikipedia", "article": "Klinefelter_syndrome", "granularity": "monthly", "timestamp": "2023040100", "agent": "user", "views": 1676}], "Aarskog–Scott syndrome": [{"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015070100", "agent": "user", "views": 2405}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015080100", "agent": "user", "views": 2428}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015090100", "agent": "user", "views": 2500}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015100100", "agent": "user", "views": 2657}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015110100", "agent": "user", "views": 2160}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2015120100", "agent": "user", "views": 2161}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016010100", "agent": "user", "views": 3356}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016020100", "agent": "user", "views": 2534}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016030100", "agent": "user", "views": 2442}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016040100", "agent": "user", "views": 2274}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016050100", "agent": "user", "views": 2188}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016060100", "agent": "user", "views": 1973}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016070100", "agent": "user", "views": 2177}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016080100", "agent": "user", "views": 2278}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016090100", "agent": "user", "views": 2087}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016100100", "agent": "user", "views": 2040}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016110100", "agent": "user", "views": 2023}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2016120100", "agent": "user", "views": 1894}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017010100", "agent": "user", "views": 2546}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017020100", "agent": "user", "views": 2413}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017030100", "agent": "user", "views": 2841}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017040100", "agent": "user", "views": 2672}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017050100", "agent": "user", "views": 2633}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017060100", "agent": "user", "views": 2401}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017070100", "agent": "user", "views": 3279}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017080100", "agent": "user", "views": 2408}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017090100", "agent": "user", "views": 2426}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017100100", "agent": "user", "views": 2463}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017110100", "agent": "user", "views": 2287}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2017120100", "agent": "user", "views": 2136}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018010100", "agent": "user", "views": 2618}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018020100", "agent": "user", "views": 2062}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018030100", "agent": "user", "views": 2358}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018040100", "agent": "user", "views": 2327}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018050100", "agent": "user", "views": 2498}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018060100", "agent": "user", "views": 2215}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018070100", "agent": "user", "views": 2148}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018080100", "agent": "user", "views": 2425}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018090100", "agent": "user", "views": 2095}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018100100", "agent": "user", "views": 1970}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018110100", "agent": "user", "views": 1764}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2018120100", "agent": "user", "views": 1752}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019010100", "agent": "user", "views": 1958}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019020100", "agent": "user", "views": 2420}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019030100", "agent": "user", "views": 2151}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019040100", "agent": "user", "views": 1936}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019050100", "agent": "user", "views": 2017}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019060100", "agent": "user", "views": 1757}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019070100", "agent": "user", "views": 1745}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019080100", "agent": "user", "views": 2007}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019090100", "agent": "user", "views": 1855}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019100100", "agent": "user", "views": 1913}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019110100", "agent": "user", "views": 1806}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2019120100", "agent": "user", "views": 1822}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 1988}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020020100", "agent": "user", "views": 1874}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020030100", "agent": "user", "views": 1883}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020040100", "agent": "user", "views": 1720}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020050100", "agent": "user", "views": 1637}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020060100", "agent": "user", "views": 1564}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020070100", "agent": "user", "views": 1672}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020080100", "agent": "user", "views": 1590}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020090100", "agent": "user", "views": 1564}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020100100", "agent": "user", "views": 2101}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020110100", "agent": "user", "views": 1824}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2020120100", "agent": "user", "views": 1587}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021010100", "agent": "user", "views": 1672}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021020100", "agent": "user", "views": 1609}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021030100", "agent": "user", "views": 1809}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021040100", "agent": "user", "views": 1775}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021050100", "agent": "user", "views": 3632}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021060100", "agent": "user", "views": 2044}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021070100", "agent": "user", "views": 1742}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021080100", "agent": "user", "views": 2800}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021090100", "agent": "user", "views": 7269}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021100100", "agent": "user", "views": 5966}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021110100", "agent": "user", "views": 6630}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2021120100", "agent": "user", "views": 16800}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022010100", "agent": "user", "views": 3679}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022020100", "agent": "user", "views": 2901}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022030100", "agent": "user", "views": 4624}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022040100", "agent": "user", "views": 2595}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022050100", "agent": "user", "views": 8218}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022060100", "agent": "user", "views": 4418}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022070100", "agent": "user", "views": 5283}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022080100", "agent": "user", "views": 2494}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022090100", "agent": "user", "views": 1462}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022100100", "agent": "user", "views": 2766}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022110100", "agent": "user", "views": 2661}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2022120100", "agent": "user", "views": 2045}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2023010100", "agent": "user", "views": 1892}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2023020100", "agent": "user", "views": 1607}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2023030100", "agent": "user", "views": 2683}, {"project": "en.wikipedia", "article": "Aarskog–Scott_syndrome", "granularity": "monthly", "timestamp": "2023040100", "agent": "user", "views": 128}], "Abetalipoproteinemia": [{"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015070100", "agent": "user", "views": 4319}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015080100", "agent": "user", "views": 4310}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015090100", "agent": "user", "views": 5120}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015100100", "agent": "user", "views": 5329}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015110100", "agent": "user", "views": 5377}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2015120100", "agent": "user", "views": 4539}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016010100", "agent": "user", "views": 5230}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016020100", "agent": "user", "views": 5348}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016030100", "agent": "user", "views": 5906}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016040100", "agent": "user", "views": 6177}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016050100", "agent": "user", "views": 6285}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016060100", "agent": "user", "views": 5261}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016070100", "agent": "user", "views": 4393}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016080100", "agent": "user", "views": 4596}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016090100", "agent": "user", "views": 4848}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016100100", "agent": "user", "views": 5613}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016110100", "agent": "user", "views": 6072}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2016120100", "agent": "user", "views": 4786}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017010100", "agent": "user", "views": 5643}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017020100", "agent": "user", "views": 5654}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017030100", "agent": "user", "views": 6624}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017040100", "agent": "user", "views": 5873}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017050100", "agent": "user", "views": 6402}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017060100", "agent": "user", "views": 5360}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017070100", "agent": "user", "views": 4382}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017080100", "agent": "user", "views": 4545}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017090100", "agent": "user", "views": 4753}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017100100", "agent": "user", "views": 5288}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017110100", "agent": "user", "views": 5442}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2017120100", "agent": "user", "views": 4577}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018010100", "agent": "user", "views": 4839}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018020100", "agent": "user", "views": 4427}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018030100", "agent": "user", "views": 5489}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018040100", "agent": "user", "views": 5248}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018050100", "agent": "user", "views": 4984}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018060100", "agent": "user", "views": 4517}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018070100", "agent": "user", "views": 4107}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018080100", "agent": "user", "views": 4109}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018090100", "agent": "user", "views": 4171}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018100100", "agent": "user", "views": 4632}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018110100", "agent": "user", "views": 4489}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2018120100", "agent": "user", "views": 3879}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019010100", "agent": "user", "views": 4202}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019020100", "agent": "user", "views": 3819}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019030100", "agent": "user", "views": 4471}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019040100", "agent": "user", "views": 4465}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019050100", "agent": "user", "views": 4372}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019060100", "agent": "user", "views": 3694}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019070100", "agent": "user", "views": 3249}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019080100", "agent": "user", "views": 3333}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019090100", "agent": "user", "views": 3761}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019100100", "agent": "user", "views": 3858}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019110100", "agent": "user", "views": 3338}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2019120100", "agent": "user", "views": 3521}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 3826}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020020100", "agent": "user", "views": 3641}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020030100", "agent": "user", "views": 3204}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020040100", "agent": "user", "views": 3356}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020050100", "agent": "user", "views": 3102}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020060100", "agent": "user", "views": 2621}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020070100", "agent": "user", "views": 2722}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020080100", "agent": "user", "views": 2784}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020090100", "agent": "user", "views": 3126}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020100100", "agent": "user", "views": 3260}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020110100", "agent": "user", "views": 3056}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2020120100", "agent": "user", "views": 2567}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021010100", "agent": "user", "views": 2769}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021020100", "agent": "user", "views": 2726}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021030100", "agent": "user", "views": 3433}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021040100", "agent": "user", "views": 2704}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021050100", "agent": "user", "views": 2578}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021060100", "agent": "user", "views": 2296}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021070100", "agent": "user", "views": 1863}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021080100", "agent": "user", "views": 2092}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021090100", "agent": "user", "views": 1857}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021100100", "agent": "user", "views": 1657}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021110100", "agent": "user", "views": 1696}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2021120100", "agent": "user", "views": 1644}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022010100", "agent": "user", "views": 1864}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022020100", "agent": "user", "views": 1568}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022030100", "agent": "user", "views": 1888}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022040100", "agent": "user", "views": 1740}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022050100", "agent": "user", "views": 1775}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022060100", "agent": "user", "views": 1659}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022070100", "agent": "user", "views": 1478}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022080100", "agent": "user", "views": 1460}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022090100", "agent": "user", "views": 1698}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022100100", "agent": "user", "views": 1721}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022110100", "agent": "user", "views": 1692}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2022120100", "agent": "user", "views": 1426}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2023010100", "agent": "user", "views": 1863}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2023020100", "agent": "user", "views": 1589}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2023030100", "agent": "user", "views": 1710}, {"project": "en.wikipedia", "article": "Abetalipoproteinemia", "granularity": "monthly", "timestamp": "2023040100", "agent": "user", "views": 55}], "MT-TP": [{"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015070100", "agent": "user", "views": 96}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015080100", "agent": "user", "views": 97}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015090100", "agent": "user", "views": 103}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015100100", "agent": "user", "views": 105}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015110100", "agent": "user", "views": 92}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2015120100", "agent": "user", "views": 88}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016010100", "agent": "user", "views": 108}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016020100", "agent": "user", "views": 79}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016030100", "agent": "user", "views": 84}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016040100", "agent": "user", "views": 72}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016050100", "agent": "user", "views": 86}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016060100", "agent": "user", "views": 76}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016070100", "agent": "user", "views": 76}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016080100", "agent": "user", "views": 128}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016090100", "agent": "user", "views": 64}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016100100", "agent": "user", "views": 75}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016110100", "agent": "user", "views": 84}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2016120100", "agent": "user", "views": 102}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017010100", "agent": "user", "views": 64}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017020100", "agent": "user", "views": 68}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017030100", "agent": "user", "views": 88}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017040100", "agent": "user", "views": 83}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017050100", "agent": "user", "views": 73}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017060100", "agent": "user", "views": 65}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017070100", "agent": "user", "views": 53}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017080100", "agent": "user", "views": 64}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017090100", "agent": "user", "views": 56}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017100100", "agent": "user", "views": 55}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017110100", "agent": "user", "views": 64}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2017120100", "agent": "user", "views": 60}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018010100", "agent": "user", "views": 91}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018020100", "agent": "user", "views": 47}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018030100", "agent": "user", "views": 67}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018040100", "agent": "user", "views": 59}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018050100", "agent": "user", "views": 106}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018060100", "agent": "user", "views": 53}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018070100", "agent": "user", "views": 68}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018080100", "agent": "user", "views": 70}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018090100", "agent": "user", "views": 92}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018100100", "agent": "user", "views": 61}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018110100", "agent": "user", "views": 60}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2018120100", "agent": "user", "views": 77}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019010100", "agent": "user", "views": 61}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019020100", "agent": "user", "views": 58}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019030100", "agent": "user", "views": 56}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019040100", "agent": "user", "views": 87}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019050100", "agent": "user", "views": 70}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019060100", "agent": "user", "views": 76}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019070100", "agent": "user", "views": 79}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019080100", "agent": "user", "views": 66}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019090100", "agent": "user", "views": 150}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019100100", "agent": "user", "views": 337}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019110100", "agent": "user", "views": 92}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2019120100", "agent": "user", "views": 107}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 92}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020020100", "agent": "user", "views": 73}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020030100", "agent": "user", "views": 92}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020040100", "agent": "user", "views": 83}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020050100", "agent": "user", "views": 41}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020060100", "agent": "user", "views": 43}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020070100", "agent": "user", "views": 54}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020080100", "agent": "user", "views": 48}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020090100", "agent": "user", "views": 33}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020100100", "agent": "user", "views": 34}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020110100", "agent": "user", "views": 43}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2020120100", "agent": "user", "views": 26}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021010100", "agent": "user", "views": 31}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021020100", "agent": "user", "views": 48}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021030100", "agent": "user", "views": 38}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021040100", "agent": "user", "views": 30}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021050100", "agent": "user", "views": 30}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021060100", "agent": "user", "views": 31}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021070100", "agent": "user", "views": 40}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021080100", "agent": "user", "views": 46}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021090100", "agent": "user", "views": 28}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021100100", "agent": "user", "views": 20}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021110100", "agent": "user", "views": 20}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2021120100", "agent": "user", "views": 38}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022010100", "agent": "user", "views": 39}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022020100", "agent": "user", "views": 34}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022030100", "agent": "user", "views": 36}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022040100", "agent": "user", "views": 53}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022050100", "agent": "user", "views": 34}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022060100", "agent": "user", "views": 34}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022070100", "agent": "user", "views": 53}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022080100", "agent": "user", "views": 38}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022090100", "agent": "user", "views": 37}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022100100", "agent": "user", "views": 27}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022110100", "agent": "user", "views": 35}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2022120100", "agent": "user", "views": 33}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2023010100", "agent": "user", "views": 22}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2023020100", "agent": "user", "views": 31}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2023030100", "agent": "user", "views": 30}, {"project": "en.wikipedia", "article": "MT-TP", "granularity": "monthly", "timestamp": "2023040100", "agent": "user", "views": 0}], "Ablepharon macrostomia syndrome": [{"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015070100", "agent": "user", "views": 705}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015080100", "agent": "user", "views": 563}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015090100", "agent": "user", "views": 528}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015100100", "agent": "user", "views": 509}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015110100", "agent": "user", "views": 544}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2015120100", "agent": "user", "views": 476}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016010100", "agent": "user", "views": 489}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016020100", "agent": "user", "views": 439}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016030100", "agent": "user", "views": 481}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016040100", "agent": "user", "views": 445}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016050100", "agent": "user", "views": 472}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016060100", "agent": "user", "views": 508}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016070100", "agent": "user", "views": 434}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016080100", "agent": "user", "views": 646}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016090100", "agent": "user", "views": 396}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016100100", "agent": "user", "views": 412}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016110100", "agent": "user", "views": 498}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2016120100", "agent": "user", "views": 370}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017010100", "agent": "user", "views": 431}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017020100", "agent": "user", "views": 406}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017030100", "agent": "user", "views": 488}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017040100", "agent": "user", "views": 421}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017050100", "agent": "user", "views": 521}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017060100", "agent": "user", "views": 375}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017070100", "agent": "user", "views": 412}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017080100", "agent": "user", "views": 449}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017090100", "agent": "user", "views": 321}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017100100", "agent": "user", "views": 414}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017110100", "agent": "user", "views": 481}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2017120100", "agent": "user", "views": 361}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018010100", "agent": "user", "views": 453}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018020100", "agent": "user", "views": 400}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018030100", "agent": "user", "views": 395}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018040100", "agent": "user", "views": 424}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018050100", "agent": "user", "views": 383}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018060100", "agent": "user", "views": 375}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018070100", "agent": "user", "views": 470}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018080100", "agent": "user", "views": 305}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018090100", "agent": "user", "views": 287}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018100100", "agent": "user", "views": 298}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018110100", "agent": "user", "views": 309}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2018120100", "agent": "user", "views": 292}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019010100", "agent": "user", "views": 405}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019020100", "agent": "user", "views": 373}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019030100", "agent": "user", "views": 316}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019040100", "agent": "user", "views": 455}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019050100", "agent": "user", "views": 383}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019060100", "agent": "user", "views": 356}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019070100", "agent": "user", "views": 497}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019080100", "agent": "user", "views": 494}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019090100", "agent": "user", "views": 410}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019100100", "agent": "user", "views": 507}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019110100", "agent": "user", "views": 462}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2019120100", "agent": "user", "views": 12637}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 520}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020020100", "agent": "user", "views": 506}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020030100", "agent": "user", "views": 486}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020040100", "agent": "user", "views": 482}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020050100", "agent": "user", "views": 399}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020060100", "agent": "user", "views": 417}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020070100", "agent": "user", "views": 341}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020080100", "agent": "user", "views": 462}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020090100", "agent": "user", "views": 437}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020100100", "agent": "user", "views": 641}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020110100", "agent": "user", "views": 414}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2020120100", "agent": "user", "views": 441}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021010100", "agent": "user", "views": 1795}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021020100", "agent": "user", "views": 5699}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021030100", "agent": "user", "views": 830}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021040100", "agent": "user", "views": 570}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021050100", "agent": "user", "views": 628}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021060100", "agent": "user", "views": 581}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021070100", "agent": "user", "views": 710}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021080100", "agent": "user", "views": 515}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021090100", "agent": "user", "views": 1416}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021100100", "agent": "user", "views": 709}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021110100", "agent": "user", "views": 1112}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2021120100", "agent": "user", "views": 660}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022010100", "agent": "user", "views": 533}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022020100", "agent": "user", "views": 612}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022030100", "agent": "user", "views": 937}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022040100", "agent": "user", "views": 639}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022050100", "agent": "user", "views": 543}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022060100", "agent": "user", "views": 531}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022070100", "agent": "user", "views": 590}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022080100", "agent": "user", "views": 495}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022090100", "agent": "user", "views": 398}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022100100", "agent": "user", "views": 1302}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022110100", "agent": "user", "views": 2797}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2022120100", "agent": "user", "views": 2821}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2023010100", "agent": "user", "views": 8070}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2023020100", "agent": "user", "views": 1936}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2023030100", "agent": "user", "views": 2608}, {"project": "en.wikipedia", "article": "Ablepharon_macrostomia_syndrome", "granularity": "monthly", "timestamp": "2023040100", "agent": "user", "views": 133}]}
+{
+  "Klinefelter syndrome": [
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "agent": "user",
+      "views": 75311
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "agent": "user",
+      "views": 68083
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "agent": "user",
+      "views": 69439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "agent": "user",
+      "views": 75887
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "agent": "user",
+      "views": 80694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "agent": "user",
+      "views": 84769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "agent": "user",
+      "views": 92728
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "agent": "user",
+      "views": 112356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "agent": "user",
+      "views": 106725
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "agent": "user",
+      "views": 97743
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "agent": "user",
+      "views": 99203
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "agent": "user",
+      "views": 82466
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "agent": "user",
+      "views": 81444
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "agent": "user",
+      "views": 87721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "agent": "user",
+      "views": 90172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "agent": "user",
+      "views": 93605
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "agent": "user",
+      "views": 91685
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "agent": "user",
+      "views": 89120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "agent": "user",
+      "views": 113032
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "agent": "user",
+      "views": 103428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "agent": "user",
+      "views": 117406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "agent": "user",
+      "views": 103932
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "agent": "user",
+      "views": 100225
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "agent": "user",
+      "views": 76255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "agent": "user",
+      "views": 84496
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "agent": "user",
+      "views": 82383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "agent": "user",
+      "views": 78099
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "agent": "user",
+      "views": 85348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "agent": "user",
+      "views": 81628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "agent": "user",
+      "views": 71897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "agent": "user",
+      "views": 83116
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "agent": "user",
+      "views": 85523
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "agent": "user",
+      "views": 91673
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "agent": "user",
+      "views": 79386
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "agent": "user",
+      "views": 77078
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "agent": "user",
+      "views": 68834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "agent": "user",
+      "views": 69623
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "agent": "user",
+      "views": 66485
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "agent": "user",
+      "views": 67585
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "agent": "user",
+      "views": 80803
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "agent": "user",
+      "views": 73372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "agent": "user",
+      "views": 77789
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "agent": "user",
+      "views": 76057
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "agent": "user",
+      "views": 74234
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "agent": "user",
+      "views": 77621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "agent": "user",
+      "views": 70208
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "agent": "user",
+      "views": 76711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "agent": "user",
+      "views": 66514
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "agent": "user",
+      "views": 59467
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "agent": "user",
+      "views": 64468
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "agent": "user",
+      "views": 63410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "agent": "user",
+      "views": 69044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "agent": "user",
+      "views": 68120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "agent": "user",
+      "views": 71177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "agent": "user",
+      "views": 73897
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "agent": "user",
+      "views": 71166
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "agent": "user",
+      "views": 60981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "agent": "user",
+      "views": 61066
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "agent": "user",
+      "views": 57662
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "agent": "user",
+      "views": 60212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "agent": "user",
+      "views": 58299
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "agent": "user",
+      "views": 56717
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "agent": "user",
+      "views": 58255
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "agent": "user",
+      "views": 64726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "agent": "user",
+      "views": 58397
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "agent": "user",
+      "views": 58061
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "agent": "user",
+      "views": 62036
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "agent": "user",
+      "views": 64351
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "agent": "user",
+      "views": 75592
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "agent": "user",
+      "views": 68209
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "agent": "user",
+      "views": 61676
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "agent": "user",
+      "views": 76316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "agent": "user",
+      "views": 51851
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "agent": "user",
+      "views": 74941
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "agent": "user",
+      "views": 47437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "agent": "user",
+      "views": 48943
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "agent": "user",
+      "views": 47288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "agent": "user",
+      "views": 43282
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "agent": "user",
+      "views": 57110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "agent": "user",
+      "views": 50968
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "agent": "user",
+      "views": 62791
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "agent": "user",
+      "views": 53663
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "agent": "user",
+      "views": 50565
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "agent": "user",
+      "views": 57381
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "agent": "user",
+      "views": 47895
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "agent": "user",
+      "views": 51867
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "agent": "user",
+      "views": 48834
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "agent": "user",
+      "views": 50607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "agent": "user",
+      "views": 52159
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "agent": "user",
+      "views": 52149
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "agent": "user",
+      "views": 53076
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "agent": "user",
+      "views": 50666
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "agent": "user",
+      "views": 59975
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Klinefelter_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "agent": "user",
+      "views": 1676
+    }
+  ],
+  "Aarskog–Scott syndrome": [
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "agent": "user",
+      "views": 2405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "agent": "user",
+      "views": 2428
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "agent": "user",
+      "views": 2500
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "agent": "user",
+      "views": 2657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "agent": "user",
+      "views": 2160
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "agent": "user",
+      "views": 2161
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "agent": "user",
+      "views": 3356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "agent": "user",
+      "views": 2534
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "agent": "user",
+      "views": 2442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "agent": "user",
+      "views": 2274
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "agent": "user",
+      "views": 2188
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "agent": "user",
+      "views": 1973
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "agent": "user",
+      "views": 2177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "agent": "user",
+      "views": 2278
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "agent": "user",
+      "views": 2087
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "agent": "user",
+      "views": 2040
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "agent": "user",
+      "views": 2023
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "agent": "user",
+      "views": 1894
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "agent": "user",
+      "views": 2546
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "agent": "user",
+      "views": 2413
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "agent": "user",
+      "views": 2841
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "agent": "user",
+      "views": 2672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "agent": "user",
+      "views": 2633
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "agent": "user",
+      "views": 2401
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "agent": "user",
+      "views": 3279
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "agent": "user",
+      "views": 2408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "agent": "user",
+      "views": 2426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "agent": "user",
+      "views": 2463
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "agent": "user",
+      "views": 2287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "agent": "user",
+      "views": 2136
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "agent": "user",
+      "views": 2618
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "agent": "user",
+      "views": 2062
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "agent": "user",
+      "views": 2358
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "agent": "user",
+      "views": 2327
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "agent": "user",
+      "views": 2498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "agent": "user",
+      "views": 2215
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "agent": "user",
+      "views": 2148
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "agent": "user",
+      "views": 2425
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "agent": "user",
+      "views": 2095
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "agent": "user",
+      "views": 1970
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "agent": "user",
+      "views": 1764
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "agent": "user",
+      "views": 1752
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "agent": "user",
+      "views": 1958
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "agent": "user",
+      "views": 2420
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "agent": "user",
+      "views": 2151
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "agent": "user",
+      "views": 1936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "agent": "user",
+      "views": 2017
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "agent": "user",
+      "views": 1757
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "agent": "user",
+      "views": 1745
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "agent": "user",
+      "views": 2007
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "agent": "user",
+      "views": 1855
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "agent": "user",
+      "views": 1913
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "agent": "user",
+      "views": 1806
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "agent": "user",
+      "views": 1822
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "agent": "user",
+      "views": 1988
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "agent": "user",
+      "views": 1874
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "agent": "user",
+      "views": 1883
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "agent": "user",
+      "views": 1720
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "agent": "user",
+      "views": 1637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "agent": "user",
+      "views": 1564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "agent": "user",
+      "views": 1672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "agent": "user",
+      "views": 1590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "agent": "user",
+      "views": 1564
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "agent": "user",
+      "views": 2101
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "agent": "user",
+      "views": 1824
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "agent": "user",
+      "views": 1587
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "agent": "user",
+      "views": 1672
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "agent": "user",
+      "views": 1609
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "agent": "user",
+      "views": 1809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "agent": "user",
+      "views": 1775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "agent": "user",
+      "views": 3632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "agent": "user",
+      "views": 2044
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "agent": "user",
+      "views": 1742
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "agent": "user",
+      "views": 2800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "agent": "user",
+      "views": 7269
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "agent": "user",
+      "views": 5966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "agent": "user",
+      "views": 6630
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "agent": "user",
+      "views": 16800
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "agent": "user",
+      "views": 3679
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "agent": "user",
+      "views": 2901
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "agent": "user",
+      "views": 4624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "agent": "user",
+      "views": 2595
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "agent": "user",
+      "views": 8218
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "agent": "user",
+      "views": 4418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "agent": "user",
+      "views": 5283
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "agent": "user",
+      "views": 2494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "agent": "user",
+      "views": 1462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "agent": "user",
+      "views": 2766
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "agent": "user",
+      "views": 2661
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "agent": "user",
+      "views": 2045
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "agent": "user",
+      "views": 1892
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "agent": "user",
+      "views": 1607
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "agent": "user",
+      "views": 2683
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Aarskog–Scott_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "agent": "user",
+      "views": 128
+    }
+  ],
+  "Abetalipoproteinemia": [
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "agent": "user",
+      "views": 4319
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "agent": "user",
+      "views": 4310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "agent": "user",
+      "views": 5120
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "agent": "user",
+      "views": 5329
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "agent": "user",
+      "views": 5377
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "agent": "user",
+      "views": 4539
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "agent": "user",
+      "views": 5230
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "agent": "user",
+      "views": 5348
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "agent": "user",
+      "views": 5906
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "agent": "user",
+      "views": 6177
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "agent": "user",
+      "views": 6285
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "agent": "user",
+      "views": 5261
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "agent": "user",
+      "views": 4393
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "agent": "user",
+      "views": 4596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "agent": "user",
+      "views": 4848
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "agent": "user",
+      "views": 5613
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "agent": "user",
+      "views": 6072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "agent": "user",
+      "views": 4786
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "agent": "user",
+      "views": 5643
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "agent": "user",
+      "views": 5654
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "agent": "user",
+      "views": 6624
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "agent": "user",
+      "views": 5873
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "agent": "user",
+      "views": 6402
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "agent": "user",
+      "views": 5360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "agent": "user",
+      "views": 4382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "agent": "user",
+      "views": 4545
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "agent": "user",
+      "views": 4753
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "agent": "user",
+      "views": 5288
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "agent": "user",
+      "views": 5442
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "agent": "user",
+      "views": 4577
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "agent": "user",
+      "views": 4839
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "agent": "user",
+      "views": 4427
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "agent": "user",
+      "views": 5489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "agent": "user",
+      "views": 5248
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "agent": "user",
+      "views": 4984
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "agent": "user",
+      "views": 4517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "agent": "user",
+      "views": 4107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "agent": "user",
+      "views": 4109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "agent": "user",
+      "views": 4171
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "agent": "user",
+      "views": 4632
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "agent": "user",
+      "views": 4489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "agent": "user",
+      "views": 3879
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "agent": "user",
+      "views": 4202
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "agent": "user",
+      "views": 3819
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "agent": "user",
+      "views": 4471
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "agent": "user",
+      "views": 4465
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "agent": "user",
+      "views": 4372
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "agent": "user",
+      "views": 3694
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "agent": "user",
+      "views": 3249
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "agent": "user",
+      "views": 3333
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "agent": "user",
+      "views": 3761
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "agent": "user",
+      "views": 3858
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "agent": "user",
+      "views": 3338
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "agent": "user",
+      "views": 3521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "agent": "user",
+      "views": 3826
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "agent": "user",
+      "views": 3641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "agent": "user",
+      "views": 3204
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "agent": "user",
+      "views": 3356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "agent": "user",
+      "views": 3102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "agent": "user",
+      "views": 2621
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "agent": "user",
+      "views": 2722
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "agent": "user",
+      "views": 2784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "agent": "user",
+      "views": 3126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "agent": "user",
+      "views": 3260
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "agent": "user",
+      "views": 3056
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "agent": "user",
+      "views": 2567
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "agent": "user",
+      "views": 2769
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "agent": "user",
+      "views": 2726
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "agent": "user",
+      "views": 3433
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "agent": "user",
+      "views": 2704
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "agent": "user",
+      "views": 2578
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "agent": "user",
+      "views": 2296
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "agent": "user",
+      "views": 1863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "agent": "user",
+      "views": 2092
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "agent": "user",
+      "views": 1857
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "agent": "user",
+      "views": 1657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "agent": "user",
+      "views": 1696
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "agent": "user",
+      "views": 1644
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "agent": "user",
+      "views": 1864
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "agent": "user",
+      "views": 1568
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "agent": "user",
+      "views": 1888
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "agent": "user",
+      "views": 1740
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "agent": "user",
+      "views": 1775
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "agent": "user",
+      "views": 1659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "agent": "user",
+      "views": 1478
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "agent": "user",
+      "views": 1460
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "agent": "user",
+      "views": 1698
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "agent": "user",
+      "views": 1721
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "agent": "user",
+      "views": 1692
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "agent": "user",
+      "views": 1426
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "agent": "user",
+      "views": 1863
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "agent": "user",
+      "views": 1589
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "agent": "user",
+      "views": 1710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Abetalipoproteinemia",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "agent": "user",
+      "views": 55
+    }
+  ],
+  "MT-TP": [
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "agent": "user",
+      "views": 96
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "agent": "user",
+      "views": 97
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "agent": "user",
+      "views": 103
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "agent": "user",
+      "views": 105
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "agent": "user",
+      "views": 88
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "agent": "user",
+      "views": 108
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "agent": "user",
+      "views": 79
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "agent": "user",
+      "views": 84
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "agent": "user",
+      "views": 72
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "agent": "user",
+      "views": 86
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "agent": "user",
+      "views": 76
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "agent": "user",
+      "views": 76
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "agent": "user",
+      "views": 128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "agent": "user",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "agent": "user",
+      "views": 75
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "agent": "user",
+      "views": 84
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "agent": "user",
+      "views": 102
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "agent": "user",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "agent": "user",
+      "views": 68
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "agent": "user",
+      "views": 88
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "agent": "user",
+      "views": 83
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "agent": "user",
+      "views": 73
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "agent": "user",
+      "views": 65
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "agent": "user",
+      "views": 53
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "agent": "user",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "agent": "user",
+      "views": 56
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "agent": "user",
+      "views": 55
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "agent": "user",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "agent": "user",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "agent": "user",
+      "views": 91
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "agent": "user",
+      "views": 47
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "agent": "user",
+      "views": 67
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "agent": "user",
+      "views": 59
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "agent": "user",
+      "views": 106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "agent": "user",
+      "views": 53
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "agent": "user",
+      "views": 68
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "agent": "user",
+      "views": 70
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "agent": "user",
+      "views": 61
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "agent": "user",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "agent": "user",
+      "views": 77
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "agent": "user",
+      "views": 61
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "agent": "user",
+      "views": 58
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "agent": "user",
+      "views": 56
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "agent": "user",
+      "views": 87
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "agent": "user",
+      "views": 70
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "agent": "user",
+      "views": 76
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "agent": "user",
+      "views": 79
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "agent": "user",
+      "views": 66
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "agent": "user",
+      "views": 150
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "agent": "user",
+      "views": 337
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "agent": "user",
+      "views": 107
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "agent": "user",
+      "views": 73
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "agent": "user",
+      "views": 92
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "agent": "user",
+      "views": 83
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "agent": "user",
+      "views": 41
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "agent": "user",
+      "views": 43
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "agent": "user",
+      "views": 54
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "agent": "user",
+      "views": 48
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "agent": "user",
+      "views": 33
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "agent": "user",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "agent": "user",
+      "views": 43
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "agent": "user",
+      "views": 26
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "agent": "user",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "agent": "user",
+      "views": 48
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "agent": "user",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "agent": "user",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "agent": "user",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "agent": "user",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "agent": "user",
+      "views": 40
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "agent": "user",
+      "views": 46
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "agent": "user",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "agent": "user",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "agent": "user",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "agent": "user",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "agent": "user",
+      "views": 39
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "agent": "user",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "agent": "user",
+      "views": 36
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "agent": "user",
+      "views": 53
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "agent": "user",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "agent": "user",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "agent": "user",
+      "views": 53
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "agent": "user",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "agent": "user",
+      "views": 37
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "agent": "user",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "agent": "user",
+      "views": 35
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "agent": "user",
+      "views": 33
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "agent": "user",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "agent": "user",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "agent": "user",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "MT-TP",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "agent": "user",
+      "views": 0
+    }
+  ],
+  "Ablepharon macrostomia syndrome": [
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015070100",
+      "agent": "user",
+      "views": 705
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015080100",
+      "agent": "user",
+      "views": 563
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015090100",
+      "agent": "user",
+      "views": 528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015100100",
+      "agent": "user",
+      "views": 509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015110100",
+      "agent": "user",
+      "views": 544
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2015120100",
+      "agent": "user",
+      "views": 476
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016010100",
+      "agent": "user",
+      "views": 489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016020100",
+      "agent": "user",
+      "views": 439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016030100",
+      "agent": "user",
+      "views": 481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016040100",
+      "agent": "user",
+      "views": 445
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016050100",
+      "agent": "user",
+      "views": 472
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016060100",
+      "agent": "user",
+      "views": 508
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016070100",
+      "agent": "user",
+      "views": 434
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016080100",
+      "agent": "user",
+      "views": 646
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016090100",
+      "agent": "user",
+      "views": 396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016100100",
+      "agent": "user",
+      "views": 412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016110100",
+      "agent": "user",
+      "views": 498
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2016120100",
+      "agent": "user",
+      "views": 370
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017010100",
+      "agent": "user",
+      "views": 431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017020100",
+      "agent": "user",
+      "views": 406
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017030100",
+      "agent": "user",
+      "views": 488
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017040100",
+      "agent": "user",
+      "views": 421
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017050100",
+      "agent": "user",
+      "views": 521
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017060100",
+      "agent": "user",
+      "views": 375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017070100",
+      "agent": "user",
+      "views": 412
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017080100",
+      "agent": "user",
+      "views": 449
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017090100",
+      "agent": "user",
+      "views": 321
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017100100",
+      "agent": "user",
+      "views": 414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017110100",
+      "agent": "user",
+      "views": 481
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2017120100",
+      "agent": "user",
+      "views": 361
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018010100",
+      "agent": "user",
+      "views": 453
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018020100",
+      "agent": "user",
+      "views": 400
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018030100",
+      "agent": "user",
+      "views": 395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018040100",
+      "agent": "user",
+      "views": 424
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018050100",
+      "agent": "user",
+      "views": 383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018060100",
+      "agent": "user",
+      "views": 375
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018070100",
+      "agent": "user",
+      "views": 470
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018080100",
+      "agent": "user",
+      "views": 305
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018090100",
+      "agent": "user",
+      "views": 287
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018100100",
+      "agent": "user",
+      "views": 298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018110100",
+      "agent": "user",
+      "views": 309
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2018120100",
+      "agent": "user",
+      "views": 292
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019010100",
+      "agent": "user",
+      "views": 405
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019020100",
+      "agent": "user",
+      "views": 373
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019030100",
+      "agent": "user",
+      "views": 316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019040100",
+      "agent": "user",
+      "views": 455
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019050100",
+      "agent": "user",
+      "views": 383
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019060100",
+      "agent": "user",
+      "views": 356
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019070100",
+      "agent": "user",
+      "views": 497
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019080100",
+      "agent": "user",
+      "views": 494
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019090100",
+      "agent": "user",
+      "views": 410
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019100100",
+      "agent": "user",
+      "views": 507
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019110100",
+      "agent": "user",
+      "views": 462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2019120100",
+      "agent": "user",
+      "views": 12637
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020010100",
+      "agent": "user",
+      "views": 520
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020020100",
+      "agent": "user",
+      "views": 506
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020030100",
+      "agent": "user",
+      "views": 486
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020040100",
+      "agent": "user",
+      "views": 482
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020050100",
+      "agent": "user",
+      "views": 399
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020060100",
+      "agent": "user",
+      "views": 417
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020070100",
+      "agent": "user",
+      "views": 341
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020080100",
+      "agent": "user",
+      "views": 462
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020090100",
+      "agent": "user",
+      "views": 437
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020100100",
+      "agent": "user",
+      "views": 641
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020110100",
+      "agent": "user",
+      "views": 414
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2020120100",
+      "agent": "user",
+      "views": 441
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021010100",
+      "agent": "user",
+      "views": 1795
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021020100",
+      "agent": "user",
+      "views": 5699
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021030100",
+      "agent": "user",
+      "views": 830
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021040100",
+      "agent": "user",
+      "views": 570
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021050100",
+      "agent": "user",
+      "views": 628
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021060100",
+      "agent": "user",
+      "views": 581
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021070100",
+      "agent": "user",
+      "views": 710
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021080100",
+      "agent": "user",
+      "views": 515
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021090100",
+      "agent": "user",
+      "views": 1416
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021100100",
+      "agent": "user",
+      "views": 709
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021110100",
+      "agent": "user",
+      "views": 1112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2021120100",
+      "agent": "user",
+      "views": 660
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022010100",
+      "agent": "user",
+      "views": 533
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022020100",
+      "agent": "user",
+      "views": 612
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022030100",
+      "agent": "user",
+      "views": 937
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022040100",
+      "agent": "user",
+      "views": 639
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022050100",
+      "agent": "user",
+      "views": 543
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022060100",
+      "agent": "user",
+      "views": 531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022070100",
+      "agent": "user",
+      "views": 590
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022080100",
+      "agent": "user",
+      "views": 495
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022090100",
+      "agent": "user",
+      "views": 398
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022100100",
+      "agent": "user",
+      "views": 1302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022110100",
+      "agent": "user",
+      "views": 2797
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2022120100",
+      "agent": "user",
+      "views": 2821
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023010100",
+      "agent": "user",
+      "views": 8070
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023020100",
+      "agent": "user",
+      "views": 1936
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023030100",
+      "agent": "user",
+      "views": 2608
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Ablepharon_macrostomia_syndrome",
+      "granularity": "monthly",
+      "timestamp": "2023040100",
+      "agent": "user",
+      "views": 133
+    }
+  ]
+}
