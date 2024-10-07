@@ -9,7 +9,9 @@ The purpose of this project is also to follow best practices for open scientific
 The code for the project is present in the Jupyter notebook [wp_rare_disease_article_views.ipynb](wp_rare_disease_article_views.ipynb)
 
 
-## License for the Source Data
+## License
+
+### Source Data
 
 The source data used in this project is obtained from the Wikimedia Foundation via the [Pageviews API](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/reference/page-views.html). According to the [Wikimedia Foundation Terms of Use](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use), the data can be reused, modified, and distributed as long as proper attribution is provided, and the data remains freely accessible.
 
@@ -18,13 +20,19 @@ How the Terms of Use Apply:
 - Attribution: If you use or share this dataset, you must provide attribution to the Wikimedia Foundation. The attribution should include a reference to both the original source of the data (the Wikimedia Foundation) and this project.
 - Freely Accessible: The data must remain open and freely accessible to others, as per the terms of the Wikimedia Foundation.
 
+### Access Page View Data
+
+To code for accessing the page view data in [wp_rare_disease_article_views.ipynb](wp_rare_disease_article_views.ipynb) was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). 
+
+Modifications to this code were made by Himanshu Naidu on October 5, 2024.
+
 
 ## Environment Setup
 
 To set up a Conda environment using the data512.yml file, follow these steps:
 
 1. Open a terminal or command prompt.
-2. Navigate to the directory where the data512.yml file is located. In this repository, it would be the root folder.
+2. Navigate to the directory where the data512.yml file is located. For this project, it would be the data-512-homework_1 folder.
 
     Note: Switch to the main branch.
 
@@ -68,7 +76,8 @@ Description:
 
 Data Schema:
 
-```{
+```
+{
   "article_title": [
     {
       "timestamp": "YYYYMMDDHH",
@@ -90,7 +99,8 @@ Description: This file contains the sum of mobile web and mobile app traffic for
 
 Data Schema: 
 
-```{
+```
+{
   "article_title": [
     {
       "timestamp": "YYYYMMDDHH",
@@ -112,7 +122,8 @@ Description: This file contains the sum of all mobile and desktop traffic for ea
 
 Data Schema: 
 
-```{
+```
+{
   "article_title": [
     {
       "timestamp": "YYYYMMDDHH",
@@ -150,7 +161,24 @@ Filename: [fewest_months_of_data.png](plots/fewest_months_of_data.png)
 Description: This plot contains pages that have the fewest months of available data.
 
 
-## Known Issues and Special Considerations
+## Known Issues
+
+The code for accessing the page views data, as developed by Dr. David W. McDonald failed to work for certain diseases, due to failure in encoding the '/' character in the disease names (such as 'Trimethoprim/sulfamethoxazole'). Thus the encoding had to be done in safe mode. 
+
+Original Code:
+```
+urllib.parse.quote(request_template['article'].replace(' ','_'))
+```
+
+Modified Code (by Himanshu Naidu):
+```
+urllib.parse.quote(request_template['article'].replace(' ','_'), safe='')
+```
+
+
+## Special Considerations
+
+- API: The pageviews API may undergo changes, which could affect the data consistency for the given time period. 
 
 - Data Completeness: Some articles may have incomplete data for certain months, particularly articles created after July 2015 or deleted before September 2024.
 
