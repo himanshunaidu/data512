@@ -19,6 +19,35 @@ How the Terms of Use Apply:
 - Freely Accessible: The data must remain open and freely accessible to others, as per the terms of the Wikimedia Foundation.
 
 
+## Environment Setup
+
+To set up a Conda environment using the data512.yml file, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory where the data512.yml file is located. In this repository, it would be the root folder.
+
+    Note: Switch to the main branch.
+
+3. Run the following command to create the Conda environment:
+
+    ```
+    conda env create -f data512.yml
+    ```
+
+    This command will read the data512.yml file and create a new Conda environment with the specified dependencies.
+
+4. Once the environment is created, activate it by running the following command:
+
+    ```
+    conda activate orca
+    ```
+    (If the name in data512.yml has been changed, update the above environment name accordingly)
+
+5. You can now proceed with running your notebooks or any other tasks within the activated Conda environment.
+
+Remember to deactivate the environment when you're done by running `conda deactivate`.
+
+
 ## API Documentation
 
 The data is acquired using the [Wikimedia Analytics Pageviews API](https://doc.wikimedia.org/generated-data-platform/aqs/analytics-api/reference/page-views.html). The API documentation provides details on how to make requests for pageview data and includes parameters for specifying the time range, article titles, and access type (e.g., mobile, desktop).
