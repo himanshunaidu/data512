@@ -26,10 +26,15 @@ To code for accessing the page view data in [wp_rare_disease_article_views.ipynb
 
 Modifications to this code were made by Himanshu Naidu on October 5, 2024.
 
+## How to Run
 
-## Environment Setup
+The entire code of the project resides in the Jupyter notebook [wp_rare_disease_article_views.ipynb](wp_rare_disease_article_views.ipynb).
 
-To set up a Conda environment using the data512.yml file, follow these steps:
+In order to run the notebook, start by setting up the Conda environment, using the [data512.yml](data512.yml)
+
+### Environment Setup
+
+To set up the Conda environment for the project, using the [data512.yml](data512.yml) file, follow these steps:
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the data512.yml file is located. For this project, it would be the data-512-homework_1 folder.
@@ -54,6 +59,16 @@ To set up a Conda environment using the data512.yml file, follow these steps:
 5. You can now proceed with running your notebooks or any other tasks within the activated Conda environment.
 
 Remember to deactivate the environment when you're done by running `conda deactivate`.
+
+
+### Running the Notebook
+
+The notebook does not need any additional configuration. Thus, you can run the code using the 'Run All' option.
+
+The entire code takes ~30 minutes to run on the system used to develop this project, with the main bottleneck being the 'Data Acquisition' step that involves using the pageviews API (that has rate limits).
+
+Note: The system used to develop this project is equipped with a 12th Gen Intel® Core™ i7-12700H processor (2.30 GHz)
+
 
 
 ## API Documentation
