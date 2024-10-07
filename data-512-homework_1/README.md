@@ -72,7 +72,7 @@ The data files represent the monthly page traffic for Wikipedia articles related
 
 Filename: [rare-disease_monthly_mobile_201501-202409.json](data/rare-disease_monthly_mobile_201501-202409.json)
 
-Description:
+Description: This file contains the sum of mobile web and mobile app traffic for each article for each month in the specified date range.
 
 Data Schema:
 
@@ -95,7 +95,7 @@ Data Schema:
 
 Filename: [rare-disease_monthly_desktop_201501-202409.json](data/rare-disease_monthly_desktop_201501-202409.json)
 
-Description: This file contains the sum of mobile web and mobile app traffic for each article for each month in the specified date range.
+Description: This file contains the desktop traffic for each article for each month in the specified date range.
 
 Data Schema: 
 
