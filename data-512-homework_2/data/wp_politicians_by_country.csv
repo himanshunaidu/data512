@@ -2472,6 +2472,14 @@ page_id,title,revision_id,article_quality_prediction,country,population,region
 77057996.0,Sény Camara,1231187957.0,Stub,Guinea,14.2,WESTERN AFRICA
 31875288.0,Yacine Diallo,1157228808.0,Stub,Guinea,14.2,WESTERN AFRICA
 5996689.0,Édouard Benjamin,1234308934.0,Stub,Guinea,14.2,WESTERN AFRICA
+65115120.0,Botche Candé,992221311.0,Stub,Guinea-Bissau,2.2,WESTERN AFRICA
+64247508.0,Juliano Fernandes,1015285975.0,Stub,Guinea-Bissau,2.2,WESTERN AFRICA
+74721594.0,Agnelo Regalla,1189186057.0,Start,Guinea-Bissau,2.2,WESTERN AFRICA
+22536684.0,Aristide Menezes,1142925183.0,Stub,Guinea-Bissau,2.2,WESTERN AFRICA
+64181937.0,Carmelita Pires,1185452679.0,Start,Guinea-Bissau,2.2,WESTERN AFRICA
+35502069.0,Desejado Lima da Costa,1200012565.0,Stub,Guinea-Bissau,2.2,WESTERN AFRICA
+64316565.0,Florentino Mendes Pereira,1177678990.0,Stub,Guinea-Bissau,2.2,WESTERN AFRICA
+66333518.0,Teodora Inácia Gomes,1060153270.0,C,Guinea-Bissau,2.2,WESTERN AFRICA
 70035628.0,Antony Beaujon,1129731289.0,C,Guyana,0.8,SOUTH AMERICA
 52388108.0,John Carter (ambassador),1242807439.0,Start,Guyana,0.8,SOUTH AMERICA
 68579823.0,Joseph Harmon,1233268491.0,Stub,Guyana,0.8,SOUTH AMERICA
@@ -3516,6 +3524,84 @@ page_id,title,revision_id,article_quality_prediction,country,population,region
 70975476.0,George Wajackoyah,1239031575.0,C,Kenya,55.1,EASTERN AFRICA
 39216725.0,Hassan Wario,1197023736.0,Start,Kenya,55.1,EASTERN AFRICA
 63194894.0,Nzioka Waita,1244706167.0,GA,Kenya,55.1,EASTERN AFRICA
+67411834.0,An Kyung-duk,1215785399.0,Start,"Korea, South",51.4,EAST ASIA
+73170369.0,Bae Deok-kwang,1210762609.0,Stub,"Korea, South",51.4,EAST ASIA
+61534343.0,Cha Myong-jin,1248053978.0,GA,"Korea, South",51.4,EAST ASIA
+62827976.0,Chang Jung-sook,1211885011.0,C,"Korea, South",51.4,EAST ASIA
+61726651.0,Chang Sŏng-man,1211885084.0,C,"Korea, South",51.4,EAST ASIA
+63712212.0,Cho Jeong-sik,1248055796.0,C,"Korea, South",51.4,EAST ASIA
+63489568.0,Choi Bae-geun,1248055386.0,C,"Korea, South",51.4,EAST ASIA
+62810570.0,Choi Gyung-hwan,1211890387.0,C,"Korea, South",51.4,EAST ASIA
+63602916.0,Choi Hye-young,1248055430.0,C,"Korea, South",51.4,EAST ASIA
+46394292.0,Choi Jong-won,1243716877.0,C,"Korea, South",51.4,EAST ASIA
+10702505.0,Choi Sae-hwang,1170460727.0,Start,"Korea, South",51.4,EAST ASIA
+36030787.0,Chun Yung-woo,1211894746.0,Stub,"Korea, South",51.4,EAST ASIA
+62750884.0,Chung Woon-chun,1248054380.0,GA,"Korea, South",51.4,EAST ASIA
+61453884.0,Ha Tae-keung,1242619974.0,C,"Korea, South",51.4,EAST ASIA
+62647340.0,Han Sun-kyo,1248054350.0,GA,"Korea, South",51.4,EAST ASIA
+61061538.0,Hong Moon-jong,1228163146.0,Start,"Korea, South",51.4,EAST ASIA
+56503492.0,Hwang Young-cheul,1212684775.0,Start,"Korea, South",51.4,EAST ASIA
+67679715.0,Hwangbo Seung-hee,1248060797.0,GA,"Korea, South",51.4,EAST ASIA
+65081324.0,Jang Kyung-tae,1248060371.0,C,"Korea, South",51.4,EAST ASIA
+55108074.0,Jang Sung-min,1248053120.0,Start,"Korea, South",51.4,EAST ASIA
+29128825.0,Jang Tae-wan,1248685977.0,Start,"Korea, South",51.4,EAST ASIA
+29686936.0,Jee Man-won,1214758329.0,Stub,"Korea, South",51.4,EAST ASIA
+62988240.0,Jeon Kwang-hoon,1251039331.0,C,"Korea, South",51.4,EAST ASIA
+24920995.0,Jeong Seung-hwa,1249809187.0,Start,"Korea, South",51.4,EAST ASIA
+76243068.0,Kang Sung-hee (politician),1212134475.0,Start,"Korea, South",51.4,EAST ASIA
+33502518.0,Kang Yong-suk,1211216893.0,C,"Korea, South",51.4,EAST ASIA
+28051387.0,Kim Choong-soo,1210984562.0,C,"Korea, South",51.4,EAST ASIA
+67742661.0,Kim Eun-hye (politician),1248060805.0,GA,"Korea, South",51.4,EAST ASIA
+62853091.0,Kim Hyung-shik,1248054490.0,C,"Korea, South",51.4,EAST ASIA
+64340200.0,Kim Jae-yeon (politician),1250111695.0,C,"Korea, South",51.4,EAST ASIA
+62851951.0,Kim Jong-hoe,1248054399.0,Stub,"Korea, South",51.4,EAST ASIA
+71614518.0,Kim Jong-hwan (military officer),1214762134.0,Stub,"Korea, South",51.4,EAST ASIA
+62452800.0,Kim Joon-kyo,1248054262.0,C,"Korea, South",51.4,EAST ASIA
+63538311.0,Kim Jung-hwa (politician),1212149322.0,Start,"Korea, South",51.4,EAST ASIA
+63653955.0,Kim Nam-kuk,1248055448.0,GA,"Korea, South",51.4,EAST ASIA
+32861091.0,Kim Se-jin (politician),1216840135.0,Stub,"Korea, South",51.4,EAST ASIA
+63637620.0,"Kim Seon-dong (politician, born 1967)",1248491631.0,Start,"Korea, South",51.4,EAST ASIA
+67612153.0,Kim Woong,1248060762.0,GA,"Korea, South",51.4,EAST ASIA
+67567451.0,"Kim Young-bae (politician, born 1967)",1248248014.0,C,"Korea, South",51.4,EAST ASIA
+67264416.0,Koo Yun-cheol,1212159657.0,C,"Korea, South",51.4,EAST ASIA
+75926169.0,Kook Jong-nam,1228800740.0,Stub,"Korea, South",51.4,EAST ASIA
+70298987.0,Kwak Sang-hoon,1245683465.0,Stub,"Korea, South",51.4,EAST ASIA
+70494435.0,Kweon Seong-dong,1219159232.0,C,"Korea, South",51.4,EAST ASIA
+70259853.0,Lee Baek-yun,1212261224.0,Start,"Korea, South",51.4,EAST ASIA
+63361460.0,Lee Cha-su,1212685987.0,Stub,"Korea, South",51.4,EAST ASIA
+43719594.0,Lee In-je,1248052580.0,Start,"Korea, South",51.4,EAST ASIA
+75963376.0,Lee Jung-woo,1212529450.0,Stub,"Korea, South",51.4,EAST ASIA
+63317329.0,Lee Keun-shik,1248055313.0,Start,"Korea, South",51.4,EAST ASIA
+62587942.0,Lee Sang-kyu,1212686631.0,GA,"Korea, South",51.4,EAST ASIA
+69430150.0,Lee Tae-bok,1238348498.0,Stub,"Korea, South",51.4,EAST ASIA
+27140189.0,Min Jong-gi,1242905318.0,Stub,"Korea, South",51.4,EAST ASIA
+4718822.0,Moon Sung-hyun (politician),1237353584.0,Stub,"Korea, South",51.4,EAST ASIA
+26193691.0,Moon Sung-keun,1241282811.0,C,"Korea, South",51.4,EAST ASIA
+67413794.0,Noh Hyeong-ouk,1212687617.0,C,"Korea, South",51.4,EAST ASIA
+75036219.0,Oh Gi-hyoung,1248063346.0,Start,"Korea, South",51.4,EAST ASIA
+62583276.0,Oh Shin-hwan,1215046755.0,GA,"Korea, South",51.4,EAST ASIA
+5962989.0,Pak Tongjin,1209936561.0,Stub,"Korea, South",51.4,EAST ASIA
+44572605.0,Park Jong-sun,1203429219.0,Stub,"Korea, South",51.4,EAST ASIA
+63198067.0,Park Joo-hyun (politician),1212681216.0,Start,"Korea, South",51.4,EAST ASIA
+63628756.0,Park Ju-won (politician),1239331399.0,Start,"Korea, South",51.4,EAST ASIA
+50039597.0,Yun-Tae Kim,1210823326.0,Start,"Korea, South",51.4,EAST ASIA
+67412533.0,Park Jun-young (government official),1212688133.0,Start,"Korea, South",51.4,EAST ASIA
+61542603.0,Park Kwang-on,1248053988.0,GA,"Korea, South",51.4,EAST ASIA
+53860284.0,Park Myung-keun,1212688343.0,Start,"Korea, South",51.4,EAST ASIA
+36752486.0,Seonu Hwi,1235438354.0,C,"Korea, South",51.4,EAST ASIA
+43558004.0,Shin Jeong-yil,1227149477.0,C,"Korea, South",51.4,EAST ASIA
+22620287.0,Shin Seong-il,1234392094.0,C,"Korea, South",51.4,EAST ASIA
+40816048.0,Song Ja,1210545243.0,Start,"Korea, South",51.4,EAST ASIA
+58947279.0,Song Ki-seok,1248053538.0,Start,"Korea, South",51.4,EAST ASIA
+72521384.0,Song Young-jin,1197352077.0,Stub,"Korea, South",51.4,EAST ASIA
+64370885.0,Won Sehun,1218114176.0,Start,"Korea, South",51.4,EAST ASIA
+63483222.0,Woo Hee-jong,1248055379.0,Stub,"Korea, South",51.4,EAST ASIA
+62590649.0,Yeo Sang-kyoo,1248054287.0,C,"Korea, South",51.4,EAST ASIA
+36480599.0,Yun Chi-chang,1214785611.0,Stub,"Korea, South",51.4,EAST ASIA
+65071223.0,Yun Hee-suk,1248060366.0,B,"Korea, South",51.4,EAST ASIA
+36584848.0,Yun Il-seon,1221352139.0,Start,"Korea, South",51.4,EAST ASIA
+63639577.0,Yun So-ha,1214500724.0,Start,"Korea, South",51.4,EAST ASIA
+36584782.0,Yun Young-sun (minister),1214785975.0,Stub,"Korea, South",51.4,EAST ASIA
 31973610.0,Visar Ymeri,1248230838.0,Stub,Kosovo,1.7,SOUTHERN EUROPE
 65356695.0,Adem Hodža,1244603844.0,Start,Kosovo,1.7,SOUTHERN EUROPE
 66766413.0,Adrijana Hodžić,1241300455.0,Start,Kosovo,1.7,SOUTHERN EUROPE

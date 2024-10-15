@@ -1,46 +1,42 @@
-Western Sahara
-Guam
-Australia
-New Zealand
-Iceland
-Guinea-Bissau
-Reunion
-Denmark
-Fiji
-China (Hong Kong SAR)
-Netherlands
-GuineaBissau
-Ireland
-China (Macao SAR)
-Suriname
-Georgia
-Liechtenstein
-Palau
-Philippines
-Nauru
-Korea, South
-eSwatini
-Romania
-Brunei
-Canada
-Mayotte
-Puerto Rico
-Korea (South)
 Andorra
-Guadeloupe
+Korea (North)
+Suriname
+Guam
+Mayotte
+Canada
+Fiji
 Korean
-Kiribati
+Guadeloupe
+China (Hong Kong SAR)
+Curacao
+Reunion
+eSwatini
+Dominica
 Jamaica
-United States
+Netherlands
+Nauru
+New Zealand
+Liechtenstein
+San Marino
+Martinique
+Australia
+Georgia
+Kiribati
 Mauritius
 New Caledonia
-Sao Tome and Principe
-Dominica
+Western Sahara
+Puerto Rico
+Ireland
+Iceland
+Palau
+United States
 United Kingdom
-Korea (North)
-French Polynesia
-Curacao
-Martinique
-San Marino
-French Guiana
+Philippines
+Denmark
+Romania
 Mexico
+French Polynesia
+Brunei
+China (Macao SAR)
+Sao Tome and Principe
+French Guiana

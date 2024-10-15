@@ -196,6 +196,25 @@ We produce tables for the following (the dataframes and output can be found in t
 6. Geographic regions by high quality coverage: Rank ordered list of geographic regions (in descending order) by high quality articles per capita.
 
 
+## Known Issues
+
+- Potential Data Inconsistencies with Wikipedia Categories
+
+Wikipedia categories are folksonomic, meaning there is very little control over how they are applied to pages. This means that the set of pages is very likely some kind of subset, and may have pages that are not actually about individual politicians. 
+
+- ORES API Rate Limits
+
+The ORES API has quite strict rate limits, and one must adhere to it. It was found that depending on the throttling logic set for the ORES API requests, varying number of API requests could fail/timeout, and this is not deterministic.
+
+- Incorrect Hierarchical Matching
+
+In this analysis, countries were assigned to the closest (lowest in the hierarchy) region. This is not necessarily valid, as a country could belong to multiple regions. 
+
+- Mismatching Country Names between Wikipedia article data and Population data
+
+There are some countries that are named differently between the [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv) and [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) files (Example: "Korea, South" vs Korea (South)). These will need to be manually corrected while performing analyses, in case one needs to consider them. 
+
+
 ## Research Implications
 
 This project explores bias in Wikipedia articles about political figures from different countries. It aims to underscore the importance of recognizing biases in the source data itself, as these could snowball into more serious issues in the models and results. The project shows an example of how much of the information available online inherently contains some level of bias, which may arise from factors such as gender, religion, culture, literacy rates etc.
