@@ -38,7 +38,6 @@ How the Terms of Use Apply:
 - Freely Accessible: The data must remain open and freely accessible to others, as per the terms of the Wikimedia Foundation.
 
 
-
 ### Intermediate Data
 
 1. [wp_politicians_with_page_info.csv](./data/wp_politicians_with_page_info.csv)
@@ -107,9 +106,7 @@ The entire code of the project resides in the Jupyter notebook [wikipedia_politi
 In order to run the notebook, start by setting up the Conda environment, using the [data512.yml](data512.yml).
 
 
-### Environment Setup
-
-#### Python Environment
+### Python Environment
 
 To set up the Conda environment for the project, using the [data512.yml](data512.yml) file, follow these steps:
 
@@ -137,7 +134,7 @@ To set up the Conda environment for the project, using the [data512.yml](data512
 
 Remember to deactivate the environment when you're done by running `conda deactivate`.
 
-#### Environment File for Credentials
+### Environment File for Credentials
 
 The project uses the dotenv package to load credentials (mainly ORES API, further instructions in the notebook) from a file called '.env' in the same directory as this notebook. The file should look like this:
 
@@ -162,6 +159,15 @@ Note: The system used to develop this project is equipped with a 12th Gen IntelÂ
 
 ## Analysis
 
+The analysis consists of calculating total-articles-per-capita (a ratio representing the number of articles per person)  and high-quality-articles-per-capita (a ratio representing the number of high quality articles per person) on a country-by-country and regional basis.
+
+We produce tables for the following (the dataframes and output can be found in the notebook):
+1. Top 10 countries by coverage: The 10 countries with the highest total articles per capita (in descending order) .
+2. Bottom 10 countries by coverage: The 10 countries with the lowest total articles per capita (in ascending order) .
+3. Top 10 countries by high quality: The 10 countries with the highest high quality articles per capita (in descending order) .
+4. Bottom 10 countries by high quality: The 10 countries with the lowest high quality articles per capita (in ascending order).
+5. Geographic regions by total coverage: A rank ordered list of geographic regions (in descending order) by total articles per capita.
+6. Geographic regions by high quality coverage: Rank ordered list of geographic regions (in descending order) by high quality articles per capita.
 
 
 ## Research Implications
