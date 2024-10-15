@@ -43,6 +43,16 @@ To set up the Conda environment for the project, using the [data512.yml](data512
 
 Remember to deactivate the environment when you're done by running `conda deactivate`.
 
+
+### Get access token
+
+To access ORES Lift Wing, you'll need a Wikimedia account. If you already have a Wikipedia account, it might work. Otherwise, create a new account to get an access token.
+Use this [official guide](https://api.wikimedia.org/wiki/Authentication) to create an API key for your account. * Make sure to create a Personal API token instead of Server-side app key* 
+On successfully creating the access token, you'll receive a Client ID, Client Secret, and Access Tokenâ€”save all three. If lost, you'll need to deactivate the token and create a new one.
+
+In the code for data acquisition, make sure to use your username and the Access Token generated.
+
+
 ### Environment File for Credentials
 
 The project uses the dotenv package to load credentials (mainly ORES API, further instructions in the notebook) from a file called '.env' in the same directory as this notebook. The file should look like this:
@@ -71,13 +81,24 @@ Note: The system used to develop this project is equipped with a 12th Gen IntelÂ
 
 ### Source Data
 
-- WikiPedia Category:Politicians
+- [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv)
 
 The Wikipedia [Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries. This data is in this repository as [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
 
-- Population Reference Bureau
+```Text
+name        # name of the politician (article)
+url         # url to the Wikipedia article
+country     # country to which the politician belongs
+```
+
+- [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv)
 
 The population data is available in CSV format as [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) from the repository. This dataset was downloaded from the world population data sheet published by the [World Population Data Sheet](https://www.prb.org/international/indicator/population/table/).
+
+```Text
+Geography        # name of the country/region
+Population       # population in millions
+```
 
 - ORES API
 
@@ -105,6 +126,13 @@ How the Terms of Use Apply:
 
 This file consists of the dataframe that is the output of the loop in [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb) that queries the PageInfo API to get the latest revision ids of the Wikipedia articles present in [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
 
+```Text
+pageid          # page id of the Wikipedia article
+title           # name of the article (politicians name)
+revision_id     # latest revision id of the wikipedia article (fetched from PageInfo API)
+page_length     # length of the Wikipedia article (not necessaryy)
+```
+
 2. [page_info_errors.txt](./data/page_info_errors.txt)
 
 This file consists of the politicians for which the PageInfo API failed to work. 
@@ -112,6 +140,14 @@ This file consists of the politicians for which the PageInfo API failed to work.
 3. [wp_politicians_with_ores.csv](./data/wp_politicians_with_ores.csv)
 
 This file consists of the dataframe that is the output of the loop in [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb) that queries the ORES API to get the predicted article quality for the latest revision of the Wikipedia articles present in [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
+
+```Text
+pageid                      # page id of the Wikipedia article
+title                       # name of the article (politicians name)
+revision_id                 # latest revision id of the wikipedia article (fetched from PageInfo API)
+page_length                 # length of the Wikipedia article (not necessaryy)
+article_quality_prediction  # article rating fetched from the ORES API call      
+```
 
 4. [ores_errors.txt](./data/ores_errors.txt)
 
@@ -125,33 +161,21 @@ This file consists of the final dataframe created by the Jupyter notebook [wikip
 
 Below is a description of each column in the dataset:
 
-    - page_id:
-    Type: Integer
-    The unique identifier for each Wikipedia page.
+```Text
+page_id                         # unique identifier for each Wikipedia page.
 
-    - title:
-    Type: String
-    The title of the Wikipedia page.
+title                           # title of the Wikipedia page.
 
-    - revision_id:
-    Type: Integer
-    The unique identifier of the most recent revision made to the Wikipedia page.
+revision_id                     # unique identifier of the most recent revision made to the Wikipedia page.
 
-    - article_quality_prediction:
-    Type: String
-    The predicted quality of the Wikipedia article based on the ORES machine learning model. This prediction is based on a set of machine learning models that assess Wikipedia articles, using labels such as Stub, Start, C, B, GA (Good Article), or FA (Featured Article).
+article_quality_prediction      # predicted quality of the Wikipedia article based on the ORES machine learning model. 
 
-    - country:
-    Type: String
-    The country that the Wikipedia page is associated with (if relevant).
+country                         # country that the Wikipedia page is associated with (if relevant).
 
-    - population:
-    Type: Integer
-    The population of the country (if applicable). This data is sourced from publicly available demographic records.
+population                      # population of the country (if applicable). 
 
-    - region:
-    Type: String
-    The region or continent where the country is located.
+region                          # region or continent where the country is located.
+```
 
 
 
