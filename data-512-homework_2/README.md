@@ -212,7 +212,7 @@ In this analysis, countries were assigned to the closest (lowest in the hierarch
 
 - Mismatching Country Names between Wikipedia article data and Population data
 
-There are some countries that are named differently between the [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv) and [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) files. These will need to be manually corrected while performing analyses, in case one needs to consider them. 
+There are some countries that are named differently between the [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv) and [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) files (Example: "Korea, South" vs Korea (South)). These will need to be manually corrected while performing analyses, in case one needs to consider them. 
 
 
 ## Research Implications
