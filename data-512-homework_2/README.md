@@ -11,21 +11,6 @@ The code for the project is present in the Jupyter notebook [wikipedia_politicia
 
 ### Source Data
 
-The Wikipedia Category:Politicians by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries. This data is in this repository as politicians_by_country.AUG.2024.csv.
-The population data is available in CSV format as population_by_country_AUG.2024.csv from the repository. This dataset was downloaded from the world population data sheet published by the Population Reference Bureau.
-The article quality is extracted using the ORES API. ORES (Objective Revision Evaluation Service) is a web service and API that provides machine learning as a service for Wikimedia projects. The different quality levels that ORES assignes to an article (from best to worst) are as follows:
-FA - Featured article
-GA - Good article (also known as A-Class)
-B - B-Class article
-C - C-Class article
-Start - Start-class article
-Stub - Stub-class article
-ORES requires a specific revision ID of an article to be able to make a label prediction. For our analysis, we will use the latest revision of an article. To obtain the latest revision ID for an article, we will use the Article Page Info MediaWiki API.
-The resulting dataset consisting of country, region, population, article_title (politician name), revision_id and article_quality is stored in wp_politicians_by_country.csv which can be found on the repository.
-wp_countries-no_match.txt consists of all countries for which there are no matches i.e either the population dataset does not have an entry for the equivalent Wikipedia country, or vice-versa.
-articles_without_scores.txt consists of all the politicians for whom we were unable to extract the latest revision ID for their corresponding articles through the page info API. This seems to be because these articles are not in English.
-All the data collected in this analysis through the APIs are subject to the terms and conditions of the Wikimedia Foundation terms of use which states that users can freely access and reuse the content on Wikimedia platforms, including articles and datasets, under free and open licenses. Any contributions made to Wikimedia platforms must be licensed under a free and open license, allowing the content to be freely shared and reused by others. Users are responsible for their edits and contributions and must adhere to laws, avoid copyright infringement, and respect the platform's policies.
-
 How the Terms of Use Apply:
 - The dataset created in this project is derived from Wikimedia's raw data. As such, it falls under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0")
 - Attribution: If you use or share this dataset, you must provide attribution to the Wikimedia Foundation. The attribution should include a reference to both the original source of the data (the Wikimedia Foundation) and this project.
