@@ -6,21 +6,96 @@ This goal of this project is to explore bias in data using Wikipedia articles ab
 
 The code for the project is present in the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb)
 
-
-## License
+## Data
 
 ### Source Data
 
+- The Wikipedia [Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries. This data is in this repository as [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
+
+- The population data is available in CSV format as [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) from the repository. This dataset was downloaded from the world population data sheet published by the Population Reference Bureau.
+
+- We're using a machine learning system called ORES (Objective Revision Evaluation Service) to estimate the quality of each article. The article quality estimates are, from best to worst:
+    - FA - Featured article
+    - GA - Good article (also known as A-Class)
+    - B - B-Class article
+    - C - C-Class article
+    - Start - Start-class article
+    - Stub - Stub-class article
+
+- ORES requires a specific revision ID of an article to be able to make a label prediction. For our analysis, we will use the latest revision of an article. To obtain the latest revision ID for an article, we will use the Article Page Info MediaWiki API.
+
+
 How the Terms of Use Apply:
-- The dataset created in this project is derived from Wikimedia's raw data. As such, it falls under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0")
-- Attribution: If you use or share this dataset, you must provide attribution to the Wikimedia Foundation. The attribution should include a reference to both the original source of the data (the Wikimedia Foundation) and this project.
+- The data created in this project is derived from Wikimedia's raw data and the ORES Machine Learning models. As such, it falls under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0")
+- Attribution: If you use or share this data, you must provide attribution to the Wikimedia Foundation. The attribution should include a reference to both the original source of the data (the Wikimedia Foundation) and this project.
 - Freely Accessible: The data must remain open and freely accessible to others, as per the terms of the Wikimedia Foundation.
+
+
+
+### Intermediate Data
+
+1. [wp_politicians_with_page_info.csv](./data/wp_politicians_with_page_info.csv)
+
+
+2. [page_info_errors.txt](./data/page_info_errors.txt)
+
+
+3. [wp_politicians_with_ores.csv](./data/wp_politicians_with_ores.csv)
+
+
+4. [ores_errors.txt](./data/ores_errors.txt)
+
+
+
+### Final Data
+
+1. [wp_politicians_by_country.csv](./data/wp_politicians_by_country.csv)
+
+This file consists of the final dataframe created by the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb). Each row corresponds to a Wikipedia page of a politician, belonging to a specific country (and region), along with the prediction of the article quality by ORES API. 
+
+Below is a description of each column in the dataset:
+
+    - page_id:
+    Type: Integer
+    The unique identifier for each Wikipedia page.
+
+    - title:
+    Type: String
+    The title of the Wikipedia page.
+
+    - revision_id:
+    Type: Integer
+    The unique identifier of the most recent revision made to the Wikipedia page.
+
+    - article_quality_prediction:
+    Type: String
+    The predicted quality of the Wikipedia article based on the ORES machine learning model. This prediction is based on a set of machine learning models that assess Wikipedia articles, using labels such as Stub, Start, C, B, GA (Good Article), or FA (Featured Article).
+
+    - country:
+    Type: String
+    The country that the Wikipedia page is associated with (if relevant).
+
+    - population:
+    Type: Integer
+    The population of the country (if applicable). This data is sourced from publicly available demographic records.
+
+    - region:
+    Type: String
+    The region or continent where the country is located.
+
+
+
+2. [wp_countries-no_match.txt](./data/wp_countries-no_match.txt) 
+
+This file consists of all countries for which there are no matches i.e either the population dataset does not have an entry for the equivalent Wikipedia country, or vice-versa.
+
 
 ## How to Run
 
 The entire code of the project resides in the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb).
 
 In order to run the notebook, start by setting up the Conda environment, using the [data512.yml](data512.yml).
+
 
 ### Environment Setup
 
