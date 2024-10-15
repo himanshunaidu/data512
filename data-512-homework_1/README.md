@@ -52,7 +52,7 @@ To set up the Conda environment for the project, using the [data512.yml](data512
 4. Once the environment is created, activate it by running the following command:
 
     ```
-    conda activate orca
+    conda activate data512
     ```
     (If the name in data512.yml has been changed, update the above environment name accordingly)
 
