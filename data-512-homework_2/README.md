@@ -198,7 +198,7 @@ We produce tables for the following (the dataframes and output can be found in t
 
 ## Known Issues
 
-- Potential Data Inconsistencies
+- Potential Data Inconsistencies with Wikipedia Categories
 
 Wikipedia categories are folksonomic, meaning there is very little control over how they are applied to pages. This means that the set of pages is very likely some kind of subset, and may have pages that are not actually about individual politicians. 
 
@@ -209,6 +209,10 @@ The ORES API has quite strict rate limits, and one must adhere to it. It was fou
 - Incorrect Hierarchical Matching
 
 In this analysis, countries were assigned to the closest (lowest in the hierarchy) region. This is not necessarily valid, as a country could belong to multiple regions. 
+
+- Mismatching Country Names between Wikipedia article data and Population data
+
+There are some countries that are named differently between the [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv) and [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) files. These will need to be manually corrected while performing analyses, in case one needs to consider them. 
 
 
 ## Research Implications
