@@ -10,11 +10,17 @@ The code for the project is present in the Jupyter notebook [wikipedia_politicia
 
 ### Source Data
 
-- The Wikipedia [Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries. This data is in this repository as [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
+- WikiPedia Category:Politicians
 
-- The population data is available in CSV format as [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) from the repository. This dataset was downloaded from the world population data sheet published by the Population Reference Bureau.
+The Wikipedia [Category:Politicians](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality) by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries. This data is in this repository as [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
 
-- We're using a machine learning system called ORES (Objective Revision Evaluation Service) to estimate the quality of each article. The article quality estimates are, from best to worst:
+- Population Reference Bureau
+
+The population data is available in CSV format as [population_by_country_AUG.2024.csv](./population_by_country_AUG.2024.csv) from the repository. This dataset was downloaded from the world population data sheet published by the [World Population Data Sheet](https://www.prb.org/international/indicator/population/table/).
+
+- ORES API
+
+We're using a machine learning system called ORES (Objective Revision Evaluation Service) to estimate the quality of each article. The article quality estimates are, from best to worst:
     - FA - Featured article
     - GA - Good article (also known as A-Class)
     - B - B-Class article
@@ -22,8 +28,9 @@ The code for the project is present in the Jupyter notebook [wikipedia_politicia
     - Start - Start-class article
     - Stub - Stub-class article
 
-- ORES requires a specific revision ID of an article to be able to make a label prediction. For our analysis, we will use the latest revision of an article. To obtain the latest revision ID for an article, we will use the Article Page Info MediaWiki API.
+ORES requires a specific revision ID of an article to be able to make a label prediction. For our analysis, we will use the latest revision of an article. To obtain the latest revision ID for an article, we will use the Article Page Info MediaWiki API.
 
+#### Terms of Use
 
 How the Terms of Use Apply:
 - The data created in this project is derived from Wikimedia's raw data and the ORES Machine Learning models. As such, it falls under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0")
@@ -36,16 +43,19 @@ How the Terms of Use Apply:
 
 1. [wp_politicians_with_page_info.csv](./data/wp_politicians_with_page_info.csv)
 
+This file consists of the dataframe that is the output of the loop in [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb) that queries the PageInfo API to get the latest revision ids of the Wikipedia articles present in [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
 
 2. [page_info_errors.txt](./data/page_info_errors.txt)
 
+This file consists of the politicians for which the PageInfo API failed to work. 
 
 3. [wp_politicians_with_ores.csv](./data/wp_politicians_with_ores.csv)
 
+This file consists of the dataframe that is the output of the loop in [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb) that queries the ORES API to get the predicted article quality for the latest revision of the Wikipedia articles present in [politicians_by_country.AUG.2024.csv](./politicians_by_country_AUG.2024.csv).
 
 4. [ores_errors.txt](./data/ores_errors.txt)
 
-
+This file consists of the politicians for which the ORES API failed to work. 
 
 ### Final Data
 
