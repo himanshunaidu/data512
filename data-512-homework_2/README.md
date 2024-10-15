@@ -6,6 +6,67 @@ This goal of this project is to explore bias in data using Wikipedia articles ab
 
 The code for the project is present in the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb)
 
+
+
+## How to Run
+
+The entire code of the project resides in the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb).
+
+In order to run the notebook, start by setting up the Conda environment, using the [data512.yml](data512.yml).
+
+
+### Python Environment
+
+To set up the Conda environment for the project, using the [data512.yml](data512.yml) file, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory where the data512.yml file is located. For this project, it would be the data-512-homework_1 folder.
+
+    Note: Switch to the main branch.
+
+3. Run the following command to create the Conda environment:
+
+    ```
+    conda env create -f data512.yml
+    ```
+
+    This command will read the data512.yml file and create a new Conda environment with the specified dependencies.
+
+4. Once the environment is created, activate it by running the following command:
+
+    ```
+    conda activate data512
+    ```
+    (If the name in data512.yml has been changed, update the above environment name accordingly)
+
+5. You can now proceed with running your notebooks or any other tasks within the activated Conda environment.
+
+Remember to deactivate the environment when you're done by running `conda deactivate`.
+
+### Environment File for Credentials
+
+The project uses the dotenv package to load credentials (mainly ORES API, further instructions in the notebook) from a file called '.env' in the same directory as this notebook. The file should look like this:
+
+```
+    WIKIMEDIA_USERNAME="<your_wikimedia_username>"
+    WIKIMEDIA_CLIENT_ID="<your_wikimedia_client_id>"
+    WIKIMEDIA_CLIENT_SECRET="<your_wikimedia_client_secret>"
+    WIKIMEDIA_ACCESS_TOKEN="<your_wikimedia_provided_access_token_its_a_really_long_string>"
+```
+
+The repository has a file called '.env.example' that you can copy to '.env' and fill in the values with your own credentials. 
+
+
+### Running the Notebook
+
+The notebook does not need any additional configuration. Thus, you can run the code using the 'Run All' option.
+
+The entire code takes ~2 hours 30 minutes to run on the system used to develop this project, with the main bottleneck being the 'Getting Article Quality Predictions' step that involves using the ORES API (that has rate limits).
+
+Note: The system used to develop this project is equipped with a 12th Gen Intel® Core™ i7-12700H processor (2.30 GHz)
+
+
+
 ## Data
 
 ### Source Data
@@ -98,65 +159,6 @@ Below is a description of each column in the dataset:
 
 This file consists of all countries for which there are no matches i.e either the population dataset does not have an entry for the equivalent Wikipedia country, or vice-versa.
 
-
-## How to Run
-
-The entire code of the project resides in the Jupyter notebook [wikipedia_politician_bias.ipynb](wikipedia_politician_bias.ipynb).
-
-In order to run the notebook, start by setting up the Conda environment, using the [data512.yml](data512.yml).
-
-
-### Python Environment
-
-To set up the Conda environment for the project, using the [data512.yml](data512.yml) file, follow these steps:
-
-1. Open a terminal or command prompt.
-2. Navigate to the directory where the data512.yml file is located. For this project, it would be the data-512-homework_1 folder.
-
-    Note: Switch to the main branch.
-
-3. Run the following command to create the Conda environment:
-
-    ```
-    conda env create -f data512.yml
-    ```
-
-    This command will read the data512.yml file and create a new Conda environment with the specified dependencies.
-
-4. Once the environment is created, activate it by running the following command:
-
-    ```
-    conda activate data512
-    ```
-    (If the name in data512.yml has been changed, update the above environment name accordingly)
-
-5. You can now proceed with running your notebooks or any other tasks within the activated Conda environment.
-
-Remember to deactivate the environment when you're done by running `conda deactivate`.
-
-### Environment File for Credentials
-
-The project uses the dotenv package to load credentials (mainly ORES API, further instructions in the notebook) from a file called '.env' in the same directory as this notebook. The file should look like this:
-
-```
-    WIKIMEDIA_USERNAME="<your_wikimedia_username>"
-    WIKIMEDIA_CLIENT_ID="<your_wikimedia_client_id>"
-    WIKIMEDIA_CLIENT_SECRET="<your_wikimedia_client_secret>"
-    WIKIMEDIA_ACCESS_TOKEN="<your_wikimedia_provided_access_token_its_a_really_long_string>"
-```
-
-The repository has a file called '.env.example' that you can copy to '.env' and fill in the values with your own credentials. 
-
-
-### Running the Notebook
-
-The notebook does not need any additional configuration. Thus, you can run the code using the 'Run All' option.
-
-The entire code takes ~2 hours 30 minutes to run on the system used to develop this project, with the main bottleneck being the 'Getting Article Quality Predictions' step that involves using the ORES API (that has rate limits).
-
-Note: The system used to develop this project is equipped with a 12th Gen Intel® Core™ i7-12700H processor (2.30 GHz)
-
-
 ## Analysis
 
 The analysis consists of calculating total-articles-per-capita (a ratio representing the number of articles per person)  and high-quality-articles-per-capita (a ratio representing the number of high quality articles per person) on a country-by-country and regional basis.
@@ -172,4 +174,24 @@ We produce tables for the following (the dataframes and output can be found in t
 
 ## Research Implications
 
+This project explores bias in Wikipedia articles about political figures from different countries. It aims to underscore the importance of recognizing biases in the source data itself, as these could snowball into more serious issues in the models and results. The project shows an example of how much of the information available online inherently contains some level of bias, which may arise from factors such as gender, religion, culture, literacy rates etc.
 
+Further analysis using the tables mentioned in the 'Analysis' section revealed interesting insights. On a high level, we see that most of the countries in the top 10 in regards to total-articles-per-capita (a ratio representing the number of articles per person) and high-quality-articles-per-capita (a ratio representing the number of high quality articles per person) are those belonging to relatively developed regions, such as those in Europe, Oceania and the Americas. On the other hand, the countries that fall in the bottom 10 in regards to these numbers predominantly belong to Asia and Africa. This indicates some clear patterns in how article quality is skewed, thus serving as a warning to exercise caution when using Wikipedia data to perform any kind of analysis.
+
+<!-- One must note however, that there are several potential shortcomings with this very analysis conducted in the project, that should prevent one from making definitive conclusions from the results. Firstly, the per-capita numbers end up potentially adding too strong a penalty to highly populated countries such as India and China. We see that they are at the bottom of the total-articles-per-capita table, and one cannot conclude with certainty whether population is responsible for this. Further analysis into this would be prudent. 
+Also, there are various (potentially well-represented) countries missing from the dataset, such as Australia, Canada, New Zealand, etc. 
+Lastly, a major part of the analysis relies on the assumption that the ORES API is an accurate predictor of article quality. If this assumption turns out to be incorrect, the entire analysis breaks down.  -->
+
+### What biases did you expect to find in the data (before you started working with it), and why?
+
+Before analyzing the data, I expected that more developed and affluent countries would have a greater number of articles, as well as higher-quality articles, compared to less developed nations. This assumption was based on the belief that internet access, and consequently access to resources such as Wikipedia, would be less prevalent in less developed countries, leading to fewer total articles and lower-quality content. Furthermore, given that the dataset was derived from English Wikipedia, I anticipated a lower representation of articles on politicians from countries where English is not widely spoken. 
+
+
+### What (potential) sources of bias did you discover in the course of your data processing and analysis?
+
+While analysing the data, there were several potential sources of bias that were revealed. First was the potential sampling bias, for example, some countries with large populations may not have been adequately represented, as evident from the low total-articles-per-capita scores for many of the most populated countries. There are also several countries that are completely missing from the dataset, such as Australia and Canada. Another potential issue is the under-representation of non-English-speaking countries. Finally, significant bias in the article quality could originate from the ORES API itself. As mentioned before, we are making the assumption that the ORES API is an accurate predictor of article quality. This means that we are not accounting for any kind of bias that the ORES ML models could themselves have. 
+
+
+### What might your results suggest about (English) Wikipedia as a data source?
+
+The results of this project suggest that English Wikipedia may have significant bias. The dataset seems to favor countries from relatively developed regions of the world, that have greater number of English-speaking populations. These biases need to be taken into account before utilizing the dataset for any kinds of analyses or model training, lest researchers end up introducing and aggravating these biases in their own results. 
